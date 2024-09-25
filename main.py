@@ -1,0 +1,13 @@
+print("1st program")
+print(9 ** 0.5 * 5)
+print("2nd program")
+print(9.99 > 9.98 and 1000 != 1000.1)
+print("3rd program")
+a, b = 2 * 2 + 2, 2 * (2 + 2)
+print(a)
+print(b)
+print(a == b)
+print("4th program")
+a = float("123.456")
+a = int(a * 10) % 10
+print(a)
